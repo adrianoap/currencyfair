@@ -32,3 +32,6 @@ The multiple post test is set to submit a random number of posts (from 1 to 2000
 
 ## Considerations
 This is only a draft in order to attend the minimum requirements for CurrencyFair's selection process, using a restricted amount of hours. 
+
+## GitHub
+This is a comment regarding my GitHub commit test

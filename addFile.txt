@@ -1,0 +1,1 @@
+This is a Git add file test.
